@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - Hello
-external_link: https://myawesomeblogggg.netlify.app/project/personalwebsiteworkshop/
+external_link: https://myawesomeblogggg.netlify.app/project/personal-website-workshop/
 image:
   filename: featured
   focal_point: Smart
